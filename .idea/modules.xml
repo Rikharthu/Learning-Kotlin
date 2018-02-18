@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learning Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Learning Kotlin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learning_Kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Learning_Kotlin_main.iml" group="Learning Kotlin" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learning_Kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Learning_Kotlin_test.iml" group="Learning Kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learning_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Learning_Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learning_Kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Learning_Kotlin_main.iml" group="Learning_Kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learning_Kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Learning_Kotlin_test.iml" group="Learning_Kotlin" />
     </modules>
   </component>
 </project>

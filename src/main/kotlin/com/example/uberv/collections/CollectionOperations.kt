@@ -38,4 +38,9 @@ fun main(args: Array<String>) {
     val a = (list.any { it % 2 == 0 })
     val b = (list.any { it > 10 })
     print("a=$a, b=$b")
+
+    val strings = listOf("First", "Second", "Fourteenth")
+    println(strings.last())
+    val numbers = setOf(1, 14, 2)
+    println(numbers.max())
 }

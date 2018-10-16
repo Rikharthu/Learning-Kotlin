@@ -1,6 +1,0 @@
-Coroutines are based on the idea of suspending functions: functions that can stop the execution when they are called
-and make it continue once it has finished running their own task.
-
-The delay() function that's like Thread.sleep(), but better: it doesn't block a thread, but only suspends
-the coroutine itself. The thread is returned to the pool while the coroutine is waiting, and when
-the waiting is done, the coroutine resumes on a free thread in the pool.
